@@ -12,4 +12,4 @@ if dados['CT'] != 0:
     dados['Aposentadoria'] = (dados['AnoC'] + 35) - nasc
 
 for k, v in dados.items():
-    print(f"{k}: {v}")
+    print(f"{k}: {v}.")

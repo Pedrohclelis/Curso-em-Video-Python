@@ -1,10 +1,10 @@
 from random import randint
 from operator import itemgetter
 
-jogo = {'jogador1': randint(1, 21),
-        'jogador2': randint(1, 21),
-        'jogador3': randint(1, 21),
-        'jogador4': randint(1, 21)}
+jogo = {'jogador 1': randint(1, 21),
+        'jogador 2': randint(1, 21),
+        'jogador 3': randint(1, 21),
+        'jogador 4': randint(1, 21)}
 
 for k, v in jogo.items():
     print(f"O {k} tirou {v} no dado.")

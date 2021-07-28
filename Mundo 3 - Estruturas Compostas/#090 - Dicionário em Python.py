@@ -4,7 +4,7 @@ dados['media'] = float(input(f"Media de {dados['Nome']}: "))
 if dados['media'] >= 7:
     dados['situacao'] = 'Aprovado'
 elif 5 <= dados['media'] < 7:
-    dados['situacao'] = 'Recup'
+    dados['situacao'] = 'Recupe'
 else:
     dados['situacao'] = 'reprovado'
 

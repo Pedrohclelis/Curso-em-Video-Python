@@ -18,7 +18,7 @@ for c in range(0, i):
 for k, v in enumerate(dados):
     print(f"O jogador {v['nome']} tirou {v['num']} nos dados.")
     sleep(0.3)
-print("\x1B[3malea jacta est...\x1B[0m")
+print("\x1B[3malea jacta est... \x1B[0m")
 
 #Rankeando os dados
 print()
