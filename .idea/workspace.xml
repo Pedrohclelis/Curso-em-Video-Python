@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8fa116b-ce85-4ef1-bd21-c5fe725fa131" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#090 - Dicionário em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#091 - Jogo de Dados em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#091.5 - Jogo de Dados em Python (Personalizado).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#092 - Cadastro de Trabalhador em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/eded.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8fa116b-ce85-4ef1-bd21-c5fe725fa131" name="Default Changelist" comment="aaa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,6 +215,21 @@
       <option name="presentableId" value="Default" />
       <updated>1622494984954</updated>
     </task>
+    <task id="LOCAL-00001" summary="mais">
+      <created>1627435144499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627435144499</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1627435243781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627435243781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,5 +242,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mais" />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
 </project>
