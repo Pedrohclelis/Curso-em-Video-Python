@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8fa116b-ce85-4ef1-bd21-c5fe725fa131" name="Default Changelist" comment="99 and 100">
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#101 - Funções para votação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#102 - Função para Fatorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#103 - Ficha do Jogador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#104 - Validando entrada de dados em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#105 - Analisando e gerando Dicionários.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#106 - Sistema interativo de ajuda em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#113 - Funções aprofundadas em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex107/#107 - Exercitando módulos em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex108/#108 - Formatando Moedas em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111/#111 - Transformando módulos em pacotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111/util/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111/util/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,92 +52,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pluge\Documents\Python\CursoEmVideoPython" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pluge\OneDrive\Documentos\GitHub\curso-em-video-python\Mundo 3 - Estruturas Compostas\ex107" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.#106 - Sistema interativo de ajuda em Python">
-    <configuration name="#102 - Função para Fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="curso-em-video-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#102 - Função para Fatorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="#103 - Ficha do Jogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="curso-em-video-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#103 - Ficha do Jogador.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="#104 - Validando entrada de dados em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="curso-em-video-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#104 - Validando entrada de dados em Python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="#105 - Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="curso-em-video-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#105 - Analisando e gerando Dicionários.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.#113 - Funções aprofundadas em Python">
     <configuration name="#106 - Sistema interativo de ajuda em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso-em-video-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +70,90 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#106 - Sistema interativo de ajuda em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#107 - Exercitando módulos em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso-em-video-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex107" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex107/#107 - Exercitando módulos em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#108 - Formatando Moedas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso-em-video-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex108" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex108/#108 - Formatando Moedas em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#111 - Transformando módulos em pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso-em-video-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/ex111/#111 - Transformando módulos em pacotes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso-em-video-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pluge\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3 - Estruturas Compostas/#113 - Funções aprofundadas em Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,19 +206,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.#102 - Função para Fatorial" />
-      <item itemvalue="Python.#103 - Ficha do Jogador" />
-      <item itemvalue="Python.#104 - Validando entrada de dados em Python" />
-      <item itemvalue="Python.#105 - Analisando e gerando Dicionários" />
       <item itemvalue="Python.#106 - Sistema interativo de ajuda em Python" />
+      <item itemvalue="Python.#107 - Exercitando módulos em Python" />
+      <item itemvalue="Python.#108 - Formatando Moedas em Python" />
+      <item itemvalue="Python.#111 - Transformando módulos em pacotes" />
+      <item itemvalue="Python.#113 - Funções aprofundadas em Python" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.#113 - Funções aprofundadas em Python" />
+        <item itemvalue="Python.#111 - Transformando módulos em pacotes" />
+        <item itemvalue="Python.#108 - Formatando Moedas em Python" />
+        <item itemvalue="Python.#107 - Exercitando módulos em Python" />
         <item itemvalue="Python.#106 - Sistema interativo de ajuda em Python" />
-        <item itemvalue="Python.#105 - Analisando e gerando Dicionários" />
-        <item itemvalue="Python.#104 - Validando entrada de dados em Python" />
-        <item itemvalue="Python.#103 - Ficha do Jogador" />
-        <item itemvalue="Python.#102 - Função para Fatorial" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630371116550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="99 and 100">
+      <created>1631241632042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631241632042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
